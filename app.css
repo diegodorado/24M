@@ -1,0 +1,32 @@
+html {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+}
+
+body {
+  font: 13px "Inconsolata", monospace;
+  color: #fff;
+  text-align: center;
+  background-image: radial-gradient(rgba(200, 200, 200, 0.25) 30%, transparent 70%);
+  background-size: 6px 6px;
+  height: 100%;
+  margin: 0;
+  padding: 10% 10%;
+  font-weight: 900;
+  text-shadow: black 2px 2px 6px,black -2px 2px 6px,black 2px -2px 6px,black -2px -2px 6px;
+}
+
+h1{
+  font-size: 3.1em;
+}
+
+.letter {
+  padding-left: 3px;
+  display: inline-block;
+  line-height: 1.6em;
+}

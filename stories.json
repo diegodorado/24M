@@ -1,0 +1,23 @@
+[{
+    "cover" : "./images/eternauta.jpg",
+    "text": " Un crujido en la silla del otro lado del escritorio.Alcé los ojos y ahí estaba,otra vez: el Eternauta, mirándome con esos ojos que habían visto tanto.Durante un largo rato se quedó ahí, mirando sin ver el tintero, los libros, los papeles desordenados sobre el escritorio. -Te conté de Hiroshima...",
+    "map": {
+      "a": "x",
+      "e": "w",
+      "i": "t",
+      "o": "r",
+      "u": "h"
+    }
+  },
+  {
+    "cover" : "./images/reves.jpg",
+    "text": " Me dijeron que en el Reino del Revés nada el pájaro y vuela el pez, que los gatos no hacen miau y dicen ‘yes’ porque estudian mucho inglés. Me dijeron que en el Reino del Revés nadie baila con los pies, que un ladrón es vigilante y otro es juez y que dos y dos son tres.",
+    "map": {
+      "a": "x",
+      "e": "w",
+      "i": "t",
+      "o": "r",
+      "u": "h"
+    }
+  }
+]
